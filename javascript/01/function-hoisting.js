@@ -1,7 +1,8 @@
 h1()
 // h2() // ReferenceError: Cannot access 'h2' before initialization
 // h3() // TypeError: h3 is not a function
-
+// h2()
+h3()
 // functions get hoisted with their definition
 function h1 () {
   console.log('hello function');

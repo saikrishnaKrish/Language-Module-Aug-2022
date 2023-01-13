@@ -1,12 +1,12 @@
 // == losely equal 
-// === strictly equal
+// === strictly equal 
 
 console.log(1 == '1'); // true
 console.log(1 === '1'); // false
 
 console.log('' == 0); // true
 
-console.log((0).toString()) // -> '' not the case
+console.log((0).toString()) // -> '' not the casem 
 console.log(Number(''))
 
 // ------------ for complex objects ----------------
