@@ -2,8 +2,8 @@ function createCounter(init, delta) {
   let x = init;
   let y = delta;
   function count () {
-    let x = 5;
-    let y = 25;
+    // let x = 5;
+    // let y = 25;
     x = x + y;
     return x;
   }
