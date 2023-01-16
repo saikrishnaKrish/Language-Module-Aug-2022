@@ -17,4 +17,4 @@ class Person {
 }
 
 let p1 = new Person('Krishna Gole', 25)
-
+console.log(p1.firstName('ram'))

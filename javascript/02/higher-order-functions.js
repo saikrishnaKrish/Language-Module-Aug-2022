@@ -11,7 +11,7 @@ const gm = createGreeter('Good Morning');
 const ge = createGreeter('Good Evening');
 
 gm('Scaler');
-ge('Scaler');
+ge('sai');
 
 // print : "Good Morning Scaler!"
 
